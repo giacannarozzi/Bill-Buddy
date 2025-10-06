@@ -1,4 +1,4 @@
-# Bill-Buddy
+# Bill-Buddy CLI
 Bill Buddy is a beginner-friendly Python command-line tool that helps users split a restaurant bill fairly among friends or family — including tips! It’s designed to make quick meal-splitting simple, accurate, and fun.
 
 # Features
