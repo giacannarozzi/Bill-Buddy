@@ -1,0 +1,20 @@
+$ python3 bill_buddy.py
+
+ Bill Buddy - Your Very Own Bill Splitter
+--------------------------------------------
+Hi there and welcome to Bill Buddy! I am Bill, your dining assistant. What's your name? Gia
+--------------------------------------------
+Hi Gia, let's get started!
+
+Please enter the total bill amount: $120
+Your total bill amount is set to: $120.00
+How much would you like to tip (ex. 15 for 15%): 18
+Tip percentage set to: 18.00%
+How many people are splitting the bill?: 3
+Your bill will be split among 3 people.
+
+-------------Overall Meal Split-------------
+Bill: $120.00
+Tip Amount (18.00%): $21.60
+Each person pays: $47.20
+--------------------------------------------
